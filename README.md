@@ -1,6 +1,6 @@
-## File Contains implementation of few Deep Neural Network Models which are being used for Image classifaction 
+# File Contains implementation of few Deep Neural Network Models which are being used for Image classifaction 
 
-# Below models are mostly taken from different research papers and it includes implemtation of those models
+## Below models are mostly taken from different research papers and it includes implemtation of those models
 
 List of different Convolutional Network Models present in the file.
 
