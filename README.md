@@ -1,7 +1,9 @@
-# implementation_cnn_models
+## File Contains implementation of few Deep Neural Network Models which are being used for Image classifaction 
 
-This paper contains the basic Implementation of some CNN Models according to their architecture.
-CNN Model present are:
+# Below models are mostly taken from different research papers and it includes implemtation of those models
+
+List of different Convolutional Network Models present in the file.
+
 1. Xception-Network
 2. DenseNet-121
 3. DenseNet-169
@@ -13,3 +15,6 @@ CNN Model present are:
 9. ResNet-152
 10. Sqeeze_and_Excitation_Network
 11. AlexNet
+
+You can simply import the pthon file and make model simply by calling the functions present in the file.
+You just need to pass few arguments like size of image given in input, output size etc and some other based on tweeking the cnn models.
